@@ -1,0 +1,13 @@
+Solution Steps:
+
+1. Show user info on balot proposals
+
+2. Prompt them on whether they plan on voting (yes or no)
+
+3. If you were going to vote, how would you vote on x balot proposal
+
+4. Program will generate a visualization based on specific balot proposal 
+Visualization should show for vs against (for proposal) inactive (not registered) vs active (registered) and planning to vote
+
+5. There needs to be a toggle function
+Show predicted results with and without inactive citizens
